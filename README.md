@@ -6,6 +6,8 @@ Este espacio reúne preguntas, propuestas editoriales y documentación pública 
 - [Guía de contribución](CONTRIBUTING.md) para proponer aclaraciones o corregir textos.
 - [Acuerdos de convivencia](CONVIVENCIA.md) para participar en las conversaciones.
 
+Sitio oficial del proyecto: [criptoaztecacoin.com](https://www.criptoaztecacoin.com/).
+
 ## Estado documentado
 
 El 21 de noviembre de 2026 se verificó el consenso de cuatro validadores repartidos entre dos entornos Linux en red local. Los nodos coincidieron en el bloque y el estado de la aplicación a la altura 3. El bloque observado reunió tres votos. Esta prueba cubre un escenario de laboratorio.
